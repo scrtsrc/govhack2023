@@ -1,282 +1,322 @@
 [
-    {
-        "date": "August 19",
-        "location": "Fremantle Community Bank Oval Fremantle",
-        "title": "South Fremantle vs Subiaco",
-        "tag": "FAMILY-FRIENDLY",
-        "href": "/events/south-fremantle-vs-subiaco/"
-    },
-    {
-        "date": "August 19",
-        "location": "Mineral Resources Park Lathlain",
-        "title": "Perth vs East Fremantle",
-        "tag": "FAMILY-FRIENDLY",
-        "href": "/events/perth-vs-east-fremantle/"
-    },
-    {
-        "date": "August 19",
-        "location": "Revo Fitness Stadium",
-        "title": "Claremont take on Swan Districts",
-        "tag": "FAMILY-FRIENDLY",
-        "href": "/events/claremont-take-on-swan-districts/"
-    },
-    {
-        "date": "August 19",
-        "location": "Art Gallery Of Western Australia Perth",
-        "title": "The Antipodean Manifesto",
-        "tag": "EXHIBITIONS",
-        "href": "/events/the-antipodean-manifesto/"
-    },
-    {
-        "date": "August 19",
-        "location": "Wireless Hill Museum Ardross",
-        "title": "Solid State: A Revolution in Radios",
-        "tag": "EXHIBITIONS",
-        "href": "/events/solid-state-a-revolution-in-radios/"
-    },
-    {
-        "date": "August 20",
-        "location": "State Library of Western Australia Perth",
-        "title": "Game Changers Trailblazing stories from WA women in soccer",
-        "tag": "EXHIBITIONS",
-        "href": "/events/game-changers-trailblazing-stories-from-wa-women-in-soccer/"
-    },
-    {
-        "date": "August 20",
-        "location": "Various Western Australia",
-        "title": "Fremantle Festival: 10 Nights in Port 2023",
-        "tag": "ART & CULTURE",
-        "href": "/events/fremantle-festival-10-nights-in-port-2023/"
-    },
-    {
-        "date": "August 20",
-        "location": "Scitech West Perth",
-        "title": "Celebrate National Science Week at Scitech",
-        "tag": "FAMILY-FRIENDLY",
-        "href": "/events/celebrate-national-science-week-at-scitech/"
-    },
-    {
-        "date": "August 20",
-        "location": "PICA Perth",
-        "title": "Sancintya Mohini Simpson: \u0101m / amm\u0101 / m\u0101 maram",
-        "tag": "ART & CULTURE",
-        "href": "/events/sancintya-mohini-simpson-am-amma-ma-maram/"
-    },
-    {
-        "date": "August 20",
-        "location": "Wireless Hill Museum Ardross",
-        "title": "Solid State: A Revolution in Radios",
-        "tag": "EXHIBITIONS",
-        "href": "/events/solid-state-a-revolution-in-radios/"
-    },
-    {
-        "date": "August 21",
-        "location": "PICA Perth",
-        "title": "Sancintya Mohini Simpson: \u0101m / amm\u0101 / m\u0101 maram",
-        "tag": "ART & CULTURE",
-        "href": "/events/sancintya-mohini-simpson-am-amma-ma-maram/"
-    },
-    {
-        "date": "August 21",
-        "location": "Lucy Luu Mt Hawthorn",
-        "title": "Buy 1 Get 1 Free Dumplings at Lucy Luu",
-        "tag": "EAT & DRINK",
-        "href": "/events/buy-1-get-1-free-dumplings-at-lucy-luu/"
-    },
-    {
-        "date": "August 21",
-        "location": "Island Brewhouse Perth",
-        "title": "Mate Date at The Island Brew House",
-        "tag": "EAT & DRINK",
-        "href": "/events/mate-date-at-the-island-brew-house/"
-    },
-    {
-        "date": "August 22",
-        "location": "PICA Perth",
-        "title": "Sancintya Mohini Simpson: \u0101m / amm\u0101 / m\u0101 maram",
-        "tag": "ART & CULTURE",
-        "href": "/events/sancintya-mohini-simpson-am-amma-ma-maram/"
-    },
-    {
-        "date": "August 22",
-        "location": "Lucy Luu Mt Hawthorn",
-        "title": "Curry Night at Lucy Luu",
-        "tag": "EAT & DRINK",
-        "href": "/events/curry-night-at-lucy-luu/"
-    },
-    {
-        "date": "August 22",
-        "location": "Island Brewhouse Perth",
-        "title": "Mate Date at The Island Brew House",
-        "tag": "EAT & DRINK",
-        "href": "/events/mate-date-at-the-island-brew-house/"
-    },
-    {
-        "date": "August 22",
-        "location": "Milk Bar Inglewood",
-        "title": "Phil Hatton\u2019s Manhattons | The Jazz Club of WA",
-        "tag": "LIVE MUSIC",
-        "href": "/events/phil-hattons-manhattons-the-jazz-club-of-wa-2/"
-    },
-    {
-        "date": "August 23",
-        "location": "University Of Western Australia Crawley",
-        "title": "Save The Children UWA Winter Book Sale",
-        "tag": "FAMILY-FRIENDLY",
-        "href": "/events/save-the-children-uwa-winter-book-sale/"
-    },
-    {
-        "date": "August 23",
-        "location": "PICA Perth",
-        "title": "Sancintya Mohini Simpson: \u0101m / amm\u0101 / m\u0101 maram",
-        "tag": "ART & CULTURE",
-        "href": "/events/sancintya-mohini-simpson-am-amma-ma-maram/"
-    },
-    {
-        "date": "August 23",
-        "location": "Wireless Hill Museum Ardross",
-        "title": "Solid State: A Revolution in Radios",
-        "tag": "EXHIBITIONS",
-        "href": "/events/solid-state-a-revolution-in-radios/"
-    },
-    {
-        "date": "August 23",
-        "location": "Iluka Sports Complex Iluka",
-        "title": "Perth Ageing Information Expo",
-        "tag": "EXHIBITIONS",
-        "href": "/events/perth-ageing-information-expo/"
-    },
-    {
-        "date": "August 23",
-        "location": "Island Brewhouse Perth",
-        "title": "Mate Date at The Island Brew House",
-        "tag": "EAT & DRINK",
-        "href": "/events/mate-date-at-the-island-brew-house/"
-    },
-    {
-        "date": "August 24",
-        "location": "PICA Perth",
-        "title": "Sancintya Mohini Simpson: \u0101m / amm\u0101 / m\u0101 maram",
-        "tag": "ART & CULTURE",
-        "href": "/events/sancintya-mohini-simpson-am-amma-ma-maram/"
-    },
-    {
-        "date": "August 24",
-        "location": "Wireless Hill Museum Ardross",
-        "title": "Solid State: A Revolution in Radios",
-        "tag": "EXHIBITIONS",
-        "href": "/events/solid-state-a-revolution-in-radios/"
-    },
-    {
-        "date": "August 24",
-        "location": "Island Brewhouse Perth",
-        "title": "Mate Date at The Island Brew House",
-        "tag": "EAT & DRINK",
-        "href": "/events/mate-date-at-the-island-brew-house/"
-    },
-    {
-        "date": "August 24",
-        "location": "Spirit of Little Things Subiaco",
-        "title": "Long Pour Cocktail Jugs at Spirit of Little Things",
-        "tag": "EAT & DRINK",
-        "href": "/events/long-pour-cocktail-jugs-at-spirit-of-little-things/"
-    },
-    {
-        "date": "August 24",
-        "location": "Bivouac Canteen Northbridge",
-        "title": "A Night in Mauritius",
-        "tag": "EAT & DRINK",
-        "href": "/events/a-night-in-mauritius/"
-    },
-    {
-        "date": "August 25",
-        "location": "PICA Perth",
-        "title": "Sancintya Mohini Simpson: \u0101m / amm\u0101 / m\u0101 maram",
-        "tag": "ART & CULTURE",
-        "href": "/events/sancintya-mohini-simpson-am-amma-ma-maram/"
-    },
-    {
-        "date": "August 25",
-        "location": "Wireless Hill Museum Ardross",
-        "title": "Solid State: A Revolution in Radios",
-        "tag": "EXHIBITIONS",
-        "href": "/events/solid-state-a-revolution-in-radios/"
-    },
-    {
-        "date": "August 25",
-        "location": "Perth Convention & Exhibition Centre Perth",
-        "title": "Perth Disability Connection Expo",
-        "tag": "EXHIBITIONS",
-        "href": "/events/perth-disability-connection-expo/"
-    },
-    {
-        "date": "August 25",
-        "location": "Island Brewhouse Perth",
-        "title": "Mate Date at The Island Brew House",
-        "tag": "EAT & DRINK",
-        "href": "/events/mate-date-at-the-island-brew-house/"
-    },
-    {
-        "date": "August 26",
-        "location": "Eucalypt Homewares Kensington",
-        "title": "Learn How to Design Tissue Transfers for Clay Workshop",
-        "tag": "WORKSHOPS",
-        "href": "/events/learn-how-to-design-tissue-transfers-for-clay-workshop/"
-    },
-    {
-        "date": "August 26",
-        "location": "Scitech West Perth",
-        "title": "Born in \u201988? Visit Scitech for Free!",
-        "tag": "FAMILY-FRIENDLY",
-        "href": "/events/born-in-88-visit-scitech-for-free/"
-    },
-    {
-        "date": "August 26",
-        "location": "PICA Perth",
-        "title": "Sancintya Mohini Simpson: \u0101m / amm\u0101 / m\u0101 maram",
-        "tag": "ART & CULTURE",
-        "href": "/events/sancintya-mohini-simpson-am-amma-ma-maram/"
-    },
-    {
-        "date": "August 26",
-        "location": "Wireless Hill Museum Ardross",
-        "title": "Solid State: A Revolution in Radios",
-        "tag": "EXHIBITIONS",
-        "href": "/events/solid-state-a-revolution-in-radios/"
-    },
-    {
-        "date": "August 26",
-        "location": "Perth Convention & Exhibition Centre Perth",
-        "title": "Perth Disability Connection Expo",
-        "tag": "EXHIBITIONS",
-        "href": "/events/perth-disability-connection-expo/"
-    },
-    {
-        "date": "August 27",
-        "location": "Scitech West Perth",
-        "title": "Born in \u201988? Visit Scitech for Free!",
-        "tag": "FAMILY-FRIENDLY",
-        "href": "/events/born-in-88-visit-scitech-for-free/"
-    },
-    {
-        "date": "August 27",
-        "location": "PICA Perth",
-        "title": "Sancintya Mohini Simpson: \u0101m / amm\u0101 / m\u0101 maram",
-        "tag": "ART & CULTURE",
-        "href": "/events/sancintya-mohini-simpson-am-amma-ma-maram/"
-    },
-    {
-        "date": "August 27",
-        "location": "Wireless Hill Museum Ardross",
-        "title": "Solid State: A Revolution in Radios",
-        "tag": "EXHIBITIONS",
-        "href": "/events/solid-state-a-revolution-in-radios/"
-    },
-    {
-        "date": "August 27",
-        "location": "Chittering Chittering",
-        "title": "Taste of Chittering",
-        "tag": "EAT & DRINK",
-        "href": "/events/taste-of-chittering-2/"
-    }
+  {
+    "date": "August 19",
+    "location": "Fremantle Community Bank Oval Fremantle",
+    "title": "South Fremantle vs Subiaco",
+    "tag": "FAMILY-FRIENDLY",
+    "href": "/events/south-fremantle-vs-subiaco/",
+    "facilities": ["Accessible Toilets"]
+  },
+  {
+    "date": "August 19",
+    "location": "Mineral Resources Park Lathlain",
+    "title": "Perth vs East Fremantle",
+    "tag": "FAMILY-FRIENDLY",
+    "href": "/events/perth-vs-east-fremantle/",
+    "facilities": []
+  },
+  {
+    "date": "August 19",
+    "location": "Revo Fitness Stadium",
+    "title": "Claremont take on Swan Districts",
+    "tag": "FAMILY-FRIENDLY",
+    "href": "/events/claremont-take-on-swan-districts/",
+    "facilities": []
+  },
+  {
+    "date": "August 19",
+    "location": "Art Gallery Of Western Australia Perth",
+    "title": "The Antipodean Manifesto",
+    "tag": "EXHIBITIONS",
+    "href": "/events/the-antipodean-manifesto/",
+    "facilities": []
+  },
+  {
+    "date": "August 19",
+    "location": "Wireless Hill Museum Ardross",
+    "title": "Solid State: A Revolution in Radios",
+    "tag": "EXHIBITIONS",
+    "href": "/events/solid-state-a-revolution-in-radios/",
+    "facilities": []
+  },
+  {
+    "date": "August 20",
+    "location": "State Library of Western Australia Perth",
+    "title": "Game Changers Trailblazing stories from WA women in soccer",
+    "tag": "EXHIBITIONS",
+    "href": "/events/game-changers-trailblazing-stories-from-wa-women-in-soccer/",
+    "facilities": []
+  },
+  {
+    "date": "August 20",
+    "location": "Various Western Australia",
+    "title": "Fremantle Festival: 10 Nights in Port 2023",
+    "tag": "ART & CULTURE",
+    "href": "/events/fremantle-festival-10-nights-in-port-2023/",
+    "facilities": []
+  },
+  {
+    "date": "August 20",
+    "location": "Scitech West Perth",
+    "title": "Celebrate National Science Week at Scitech",
+    "tag": "FAMILY-FRIENDLY",
+    "href": "/events/celebrate-national-science-week-at-scitech/",
+    "facilities": []
+  },
+  {
+    "date": "August 20",
+    "location": "PICA Perth",
+    "title": "Sancintya Mohini Simpson: \u0101m / amm\u0101 / m\u0101 maram",
+    "tag": "ART & CULTURE",
+    "href": "/events/sancintya-mohini-simpson-am-amma-ma-maram/",
+    "facilities": []
+  },
+  {
+    "date": "August 20",
+    "location": "Wireless Hill Museum Ardross",
+    "title": "Solid State: A Revolution in Radios",
+    "tag": "EXHIBITIONS",
+    "href": "/events/solid-state-a-revolution-in-radios/",
+    "facilities": []
+  },
+  {
+    "date": "August 21",
+    "location": "PICA Perth",
+    "title": "Sancintya Mohini Simpson: \u0101m / amm\u0101 / m\u0101 maram",
+    "tag": "ART & CULTURE",
+    "href": "/events/sancintya-mohini-simpson-am-amma-ma-maram/",
+    "facilities": []
+  },
+  {
+    "date": "August 21",
+    "location": "Lucy Luu Mt Hawthorn",
+    "title": "Buy 1 Get 1 Free Dumplings at Lucy Luu",
+    "tag": "EAT & DRINK",
+    "href": "/events/buy-1-get-1-free-dumplings-at-lucy-luu/",
+    "facilities": []
+  },
+  {
+    "date": "August 21",
+    "location": "Island Brewhouse Perth",
+    "title": "Mate Date at The Island Brew House",
+    "tag": "EAT & DRINK",
+    "href": "/events/mate-date-at-the-island-brew-house/",
+    "facilities": []
+  },
+  {
+    "date": "August 22",
+    "location": "PICA Perth",
+    "title": "Sancintya Mohini Simpson: \u0101m / amm\u0101 / m\u0101 maram",
+    "tag": "ART & CULTURE",
+    "href": "/events/sancintya-mohini-simpson-am-amma-ma-maram/",
+    "facilities": []
+  },
+  {
+    "date": "August 22",
+    "location": "Lucy Luu Mt Hawthorn",
+    "title": "Curry Night at Lucy Luu",
+    "tag": "EAT & DRINK",
+    "href": "/events/curry-night-at-lucy-luu/",
+    "facilities": []
+  },
+  {
+    "date": "August 22",
+    "location": "Island Brewhouse Perth",
+    "title": "Mate Date at The Island Brew House",
+    "tag": "EAT & DRINK",
+    "href": "/events/mate-date-at-the-island-brew-house/",
+    "facilities": []
+  },
+  {
+    "date": "August 22",
+    "location": "Milk Bar Inglewood",
+    "title": "Phil Hatton\u2019s Manhattons | The Jazz Club of WA",
+    "tag": "LIVE MUSIC",
+    "href": "/events/phil-hattons-manhattons-the-jazz-club-of-wa-2/",
+    "facilities": []
+  },
+  {
+    "date": "August 23",
+    "location": "University Of Western Australia Crawley",
+    "title": "Save The Children UWA Winter Book Sale",
+    "tag": "FAMILY-FRIENDLY",
+    "href": "/events/save-the-children-uwa-winter-book-sale/",
+    "facilities": []
+  },
+  {
+    "date": "August 23",
+    "location": "PICA Perth",
+    "title": "Sancintya Mohini Simpson: \u0101m / amm\u0101 / m\u0101 maram",
+    "tag": "ART & CULTURE",
+    "href": "/events/sancintya-mohini-simpson-am-amma-ma-maram/",
+    "facilities": []
+  },
+  {
+    "date": "August 23",
+    "location": "Wireless Hill Museum Ardross",
+    "title": "Solid State: A Revolution in Radios",
+    "tag": "EXHIBITIONS",
+    "href": "/events/solid-state-a-revolution-in-radios/",
+    "facilities": []
+  },
+  {
+    "date": "August 23",
+    "location": "Iluka Sports Complex Iluka",
+    "title": "Perth Ageing Information Expo",
+    "tag": "EXHIBITIONS",
+    "href": "/events/perth-ageing-information-expo/",
+    "facilities": []
+  },
+  {
+    "date": "August 23",
+    "location": "Island Brewhouse Perth",
+    "title": "Mate Date at The Island Brew House",
+    "tag": "EAT & DRINK",
+    "href": "/events/mate-date-at-the-island-brew-house/",
+    "facilities": []
+  },
+  {
+    "date": "August 24",
+    "location": "PICA Perth",
+    "title": "Sancintya Mohini Simpson: \u0101m / amm\u0101 / m\u0101 maram",
+    "tag": "ART & CULTURE",
+    "href": "/events/sancintya-mohini-simpson-am-amma-ma-maram/",
+    "facilities": []
+  },
+  {
+    "date": "August 24",
+    "location": "Wireless Hill Museum Ardross",
+    "title": "Solid State: A Revolution in Radios",
+    "tag": "EXHIBITIONS",
+    "href": "/events/solid-state-a-revolution-in-radios/",
+    "facilities": []
+  },
+  {
+    "date": "August 24",
+    "location": "Island Brewhouse Perth",
+    "title": "Mate Date at The Island Brew House",
+    "tag": "EAT & DRINK",
+    "href": "/events/mate-date-at-the-island-brew-house/",
+    "facilities": []
+  },
+  {
+    "date": "August 24",
+    "location": "Spirit of Little Things Subiaco",
+    "title": "Long Pour Cocktail Jugs at Spirit of Little Things",
+    "tag": "EAT & DRINK",
+    "href": "/events/long-pour-cocktail-jugs-at-spirit-of-little-things/",
+    "facilities": []
+  },
+  {
+    "date": "August 24",
+    "location": "Bivouac Canteen Northbridge",
+    "title": "A Night in Mauritius",
+    "tag": "EAT & DRINK",
+    "href": "/events/a-night-in-mauritius/",
+    "facilities": []
+  },
+  {
+    "date": "August 25",
+    "location": "PICA Perth",
+    "title": "Sancintya Mohini Simpson: \u0101m / amm\u0101 / m\u0101 maram",
+    "tag": "ART & CULTURE",
+    "href": "/events/sancintya-mohini-simpson-am-amma-ma-maram/",
+    "facilities": []
+  },
+  {
+    "date": "August 25",
+    "location": "Wireless Hill Museum Ardross",
+    "title": "Solid State: A Revolution in Radios",
+    "tag": "EXHIBITIONS",
+    "href": "/events/solid-state-a-revolution-in-radios/",
+    "facilities": []
+  },
+  {
+    "date": "August 25",
+    "location": "Perth Convention & Exhibition Centre Perth",
+    "title": "Perth Disability Connection Expo",
+    "tag": "EXHIBITIONS",
+    "href": "/events/perth-disability-connection-expo/",
+    "facilities": []
+  },
+  {
+    "date": "August 25",
+    "location": "Island Brewhouse Perth",
+    "title": "Mate Date at The Island Brew House",
+    "tag": "EAT & DRINK",
+    "href": "/events/mate-date-at-the-island-brew-house/",
+    "facilities": []
+  },
+  {
+    "date": "August 26",
+    "location": "Eucalypt Homewares Kensington",
+    "title": "Learn How to Design Tissue Transfers for Clay Workshop",
+    "tag": "WORKSHOPS",
+    "href": "/events/learn-how-to-design-tissue-transfers-for-clay-workshop/",
+    "facilities": []
+  },
+  {
+    "date": "August 26",
+    "location": "Scitech West Perth",
+    "title": "Born in \u201988? Visit Scitech for Free!",
+    "tag": "FAMILY-FRIENDLY",
+    "href": "/events/born-in-88-visit-scitech-for-free/",
+    "facilities": []
+  },
+  {
+    "date": "August 26",
+    "location": "PICA Perth",
+    "title": "Sancintya Mohini Simpson: \u0101m / amm\u0101 / m\u0101 maram",
+    "tag": "ART & CULTURE",
+    "href": "/events/sancintya-mohini-simpson-am-amma-ma-maram/",
+    "facilities": []
+  },
+  {
+    "date": "August 26",
+    "location": "Wireless Hill Museum Ardross",
+    "title": "Solid State: A Revolution in Radios",
+    "tag": "EXHIBITIONS",
+    "href": "/events/solid-state-a-revolution-in-radios/",
+    "facilities": []
+  },
+  {
+    "date": "August 26",
+    "location": "Perth Convention & Exhibition Centre Perth",
+    "title": "Perth Disability Connection Expo",
+    "tag": "EXHIBITIONS",
+    "href": "/events/perth-disability-connection-expo/",
+    "facilities": []
+  },
+  {
+    "date": "August 27",
+    "location": "Scitech West Perth",
+    "title": "Born in \u201988? Visit Scitech for Free!",
+    "tag": "FAMILY-FRIENDLY",
+    "href": "/events/born-in-88-visit-scitech-for-free/",
+    "facilities": []
+  },
+  {
+    "date": "August 27",
+    "location": "PICA Perth",
+    "title": "Sancintya Mohini Simpson: \u0101m / amm\u0101 / m\u0101 maram",
+    "tag": "ART & CULTURE",
+    "href": "/events/sancintya-mohini-simpson-am-amma-ma-maram/",
+    "facilities": []
+  },
+  {
+    "date": "August 27",
+    "location": "Wireless Hill Museum Ardross",
+    "title": "Solid State: A Revolution in Radios",
+    "tag": "EXHIBITIONS",
+    "href": "/events/solid-state-a-revolution-in-radios/",
+    "facilities": []
+  },
+  {
+    "date": "August 27",
+    "location": "Chittering Chittering",
+    "title": "Taste of Chittering",
+    "tag": "EAT & DRINK",
+    "href": "/events/taste-of-chittering-2/",
+    "facilities": []
+  }
 ]

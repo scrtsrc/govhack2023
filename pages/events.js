@@ -1,5 +1,5 @@
 import eventData from "../data/events.json";
-import considerations from "../data/considerations.json";
+import facilities from "../data/facilities.json";
 import { useRouter } from "next/router";
 import styles from "../styles/common.module.css";
 import Footer from "./footer";
@@ -14,7 +14,18 @@ export default function Events() {
   const router = useRouter();
   const selectedTag = router.query.tag;
   const relevantEvents = eventData.filter((event) => event.tag === selectedTag);
-  console.log(considerations);
+
+  function renderFacilityIcons(facilities) {
+    return facilities.map((f, i) => (
+      <FontAwesomeIcon
+        className={styles.icon}
+        key={i}
+        icon={f.icon}
+        title={f.name}
+      />
+    ));
+  }
+
   return (
     <div className={styles.container}>
       <Header pageTitle={selectedTag} />
@@ -32,9 +43,16 @@ export default function Events() {
                 <br />
                 Location: {e.location}
                 <br />
-                {considerations.map((c, i) => (
-                  <FontAwesomeIcon key={i} icon={c.icon} />
-                ))}
+                Facilities:
+                {e.facilities && e.facilities.length > 0
+                  ? renderFacilityIcons(
+                      e.facilities
+                        .map((facility) =>
+                          facilities.find((f) => f.name === facility)
+                        )
+                        .filter((result) => result !== undefined)
+                    )
+                  : null}
                 <br />
               </p>
             </a>
