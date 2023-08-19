@@ -1,29 +1,23 @@
-import React, { useState, useEffect } from "react";
-import loader from "../utils/googleMapsLoader";
-const Map = ({ address }) => {
-    const [map, setMap] = useState(null);
-    useEffect(() => {
-      loader.load().then(() => {
-        const geocoder = new window.google.maps.Geocoder();
-        geocoder.geocode({ address }, (results, status) => {
-          if (status === 'OK') {
-            const mapOptions = {
-              center: results[0].geometry.location,
-              zoom: 16,
-            };
-            const newMap = new window.google.maps.Map(
-              document.getElementById('map'),
-              mapOptions
-            );
-            const marker = new window.google.maps.Marker({
-              position: results[0].geometry.location,
-              map: newMap,
-            });
-            setMap(newMap);
-          }
-        });
+import React, { useEffect, useRef } from "react";
+import { Loader } from "@googlemaps/js-api-loader";
+
+const GoogleMap = ({ lat, lng }) => {
+  const mapRef = useRef(null);
+
+  useEffect(() => {
+    const loader = new Loader({
+      apiKey: process.env.GOOGLE_MAPS_API_KEY,
+    });
+
+    loader.load().then(() => {
+      new google.maps.Map(mapRef.current, {
+        center: { lat, lng },
+        zoom: 10,
       });
-    }, [address]);
-    return <div id="map" style={{ height: '400px' }}></div>;
-  };
-  export default Map;
+    });
+  }, []);
+
+  return <div ref={mapRef} style={{ height: "400px" }} />;
+};
+
+export default GoogleMap;

@@ -7,9 +7,12 @@ import Header from "./header";
 import { library } from "@fortawesome/fontawesome-svg-core";
 import { fas } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import Map from "./map"
+import GoogleMap from "./map"
 export default function Events() {
- 
+  const mapCenter = {
+    lat: -31.950527, // Example latitude
+    lng: 115.860457, // Example longitude
+  };
   // Add all the solid style icons to the library
   library.add(fas);
   const router = useRouter();
@@ -31,7 +34,7 @@ export default function Events() {
     <div className={styles.container}>
       <Header pageTitle={selectedTag} />
       <main className={styles.main}>
-      <Map address="1600 Amphitheatre Parkway, Mountain View, CA" />
+      <GoogleMap lat={mapCenter.lat} lng={mapCenter.lng} />
         <div className={styles.grid}>
           {relevantEvents.map((e, index) => (
             <a
