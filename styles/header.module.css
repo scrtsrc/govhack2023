@@ -8,20 +8,13 @@
   color: white;
 }
 
-.header a title{
-  display: flex;
-  justify-content: center;
-  align-items: center;
+.noDecoration{
   text-decoration: none;
-  color: white;
-  padding-right: 100%;
-}
-
-.title {
-  margin: 0 0 1rem;
+  margin-right: 30%;
   line-height: 1.15;
   font-size: 3.6rem;
   text-align: center;
-  color: white;
+  color:  #01F9C6;
 }
+
 
