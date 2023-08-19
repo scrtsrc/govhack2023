@@ -1,0 +1,18 @@
+[
+    { "consideration": "Manual Wheelchairs", "icon": "wheelchair" },
+    { "consideration": "Power Wheelchairs", "icon": "wheelchair-move" },
+    { "consideration": "Vision Impairment", "icon": "eye" },
+    { "consideration": "Hearing Impairments", "icon": "deaf" },
+    { "consideration": "Neurodiversity", "icon": "brain" },
+    { "consideration": "Highrise Vans", "icon": "shuttle-van" },
+    { "consideration": "Ramps/Lifts", "icon": "elevator" },
+    { "consideration": "ACROD Parking", "icon": "parking" },
+    { "consideration": "Companion Tickets", "icon": "users" },
+    { "consideration": "Hearing Loops", "icon": "redo" },
+    { "consideration": "Pictorial Based Signage", "icon": "camera" },
+    { "consideration": "Direction Markers", "icon": "compass" },
+    { "consideration": "Voice Control Software", "icon": "microphone" },
+    { "consideration": "Braille Options", "icon": "braille" },
+    { "consideration": "Accessible Toilets", "icon": "restroom" }
+  ]
+  
