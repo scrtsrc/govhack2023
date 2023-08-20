@@ -1,8 +1,32 @@
 import React, { useEffect, useRef } from "react";
 import { Loader } from "@googlemaps/js-api-loader";
 
-const GoogleMap = ({ events }) => {
+const GoogleMap = ({ events,hoveredEventIndex }) => {
   const mapRef = useRef(null);
+  const defaultIcon = {
+    //path: google.maps.SymbolPath.TRIANGLE,
+    scale: 8,
+    fillColor: "#494F55",
+    fillOpacity: 1,
+    strokeWeight: 0,
+  };
+  const markers = []; // Store marker instances
+
+  const hoveredIcon = {
+    path: google.maps.SymbolPath.CIRCLE,
+    scale: 10,
+    fillColor: "red", 
+    fillOpacity: 1,
+    strokeWeight: 0,
+  };
+  const updateMarkers = () => {
+
+    markers.forEach((marker, index) => {
+    
+      console.log("pos", marker.position)
+      marker.setIcon(index === hoveredEventIndex ? hoveredIcon : defaultIcon);
+    });
+  };
 
   useEffect(() => {
     const loader = new Loader({
@@ -14,27 +38,10 @@ const GoogleMap = ({ events }) => {
         lat: -31.950527,
         lng: 115.860457,
       };
-      if (events[0] !== null && events[0].address) {
-        const address = events[0].address;
-        const geocoder = new google.maps.Geocoder();
-        geocoder.geocode({ address }, (results, status) => {
-          if (status === google.maps.GeocoderStatus.OK) {
-            loc = results[0].geometry.location;
-            console.log(address,loc)
-          } else {
-            console.error(
-              "Geocode was not successful for the following reason:",
-              status
-            );
-          }
-        });
-      }
-
-
-
-      new google.maps.Map(mapRef.current, {
+ 
+      const map = new google.maps.Map(mapRef.current, {
         center: loc,
-        zoom: 15,
+        zoom: 11,
         styles: [
           { elementType: "geometry", stylers: [{ color: "#242f3e" }] },
           {
@@ -122,22 +129,33 @@ const GoogleMap = ({ events }) => {
           },
         ],
       });
-
-      new google.maps.Marker({
-        position: loc,
-        mapRef,
-        label: {
-          text: "Perth",
-          color: "#ffffff",
-          fontSize: "14px",
-          fontWeight: "bold",
-        },
+      events.forEach((e) => {
+        const marker = new google.maps.Marker({
+          position: e.loc,
+          map: map,
+          label: {
+            color: "#ffffff",
+          },
+          icon: defaultIcon,
+        });
+        console.log("pos", marker)
+        markers.push(marker);
       });
+
+      return () => {
+        markers.forEach((marker) => {
+          marker.setMap(null); // Clean up markers when component unmounts
+        });
+      };
     };
 
     loadMap();
   }, []);
-
+  
+  useEffect(() => {
+  
+    updateMarkers(); // Update markers when hoveredEventIndex changes
+  }, [hoveredEventIndex]);
   return (
     <div
       ref={mapRef}
