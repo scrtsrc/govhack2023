@@ -1,5 +1,8 @@
 import React, { useEffect, useRef } from "react";
 import { Loader } from "@googlemaps/js-api-loader";
+import facData from "../data/cop.json"
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"; // Import FontAwesomeIcon
+import { faWheelchair } from "@fortawesome/free-solid-svg-icons"; // Example FontAwesome icon
 
 const GoogleMap = ({ events,hoveredEventIndex }) => {
   const mapRef = useRef(null);
@@ -12,10 +15,11 @@ const GoogleMap = ({ events,hoveredEventIndex }) => {
   };
   const markers = []; // Store marker instances
 
-  const hoveredIcon = {
-    path: google.maps.SymbolPath.CIRCLE,
-    scale: 10,
-    fillColor: "red", 
+  const facIcon = {
+    // Using FontAwesome icon for the custom marker
+    path: faWheelchair.icon[4], // FontAwesome icons are defined as arrays, 4th index contains the path
+    scale: 0.05, // You might need to adjust the scale
+    fillColor: "yellow",
     fillOpacity: 1,
     strokeWeight: 0,
   };
@@ -138,9 +142,22 @@ const GoogleMap = ({ events,hoveredEventIndex }) => {
           },
           icon: defaultIcon,
         });
-        console.log("pos", marker)
-        markers.push(marker);
+
       });
+
+
+      facData.forEach((f) => {
+        const marker = new google.maps.Marker({
+          position: f.loc,
+          map: map,
+          label: {
+            color: "#ffffff",
+            text: f.fac
+          },
+          icon: facIcon,
+        });
+
+    });
 
       return () => {
         markers.forEach((marker) => {
