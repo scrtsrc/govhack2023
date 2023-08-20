@@ -11,11 +11,6 @@
   z-index: 1;
 }
 
-.icon{
-  color:white;
-  margin: 1%;
-}
-
 .strong::before {
   /* Highlight color */
   background-color: #01f9c6;

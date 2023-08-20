@@ -3,7 +3,7 @@
   height: 100px;
   border-bottom: 1px solid #01F9C6;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   color: white;
 }

@@ -5,7 +5,8 @@
     "title": "South Fremantle vs Subiaco",
     "tag": "FAMILY-FRIENDLY",
     "href": "/events/south-fremantle-vs-subiaco/",
-    "facilities": ["Accessible Toilets"]
+    "facilities": ["Accessible Toilets"],
+    "address": "Parry St, Fremantle, WA, 6160, Australia"
   },
   {
     "date": "August 19",
@@ -13,7 +14,8 @@
     "title": "Perth vs East Fremantle",
     "tag": "FAMILY-FRIENDLY",
     "href": "/events/perth-vs-east-fremantle/",
-    "facilities": []
+    "facilities": [],
+    "address": "Godfrey St & Bishopsgate St, Lathlain WA 6100, Australia"
   },
   {
     "date": "August 19",
@@ -21,7 +23,8 @@
     "title": "Claremont take on Swan Districts",
     "tag": "FAMILY-FRIENDLY",
     "href": "/events/claremont-take-on-swan-districts/",
-    "facilities": []
+    "facilities": [],
+    "address": "9 Robertson Rd, Lathlain WA 6100, Australia"
   },
   {
     "date": "August 19",
@@ -29,7 +32,8 @@
     "title": "The Antipodean Manifesto",
     "tag": "EXHIBITIONS",
     "href": "/events/the-antipodean-manifesto/",
-    "facilities": []
+    "facilities": [],
+    "address": "Perth Cultural Centre, Roe St, Perth, WA, 6000, Australia"
   },
   {
     "date": "August 19",
@@ -37,7 +41,8 @@
     "title": "Solid State: A Revolution in Radios",
     "tag": "EXHIBITIONS",
     "href": "/events/solid-state-a-revolution-in-radios/",
-    "facilities": []
+    "facilities": [],
+    "address": "Alfred Rd, Ardross WA 6153, Australia"
   },
   {
     "date": "August 20",
@@ -45,7 +50,8 @@
     "title": "Game Changers Trailblazing stories from WA women in soccer",
     "tag": "EXHIBITIONS",
     "href": "/events/game-changers-trailblazing-stories-from-wa-women-in-soccer/",
-    "facilities": []
+    "facilities": [],
+    "address": "25 Francis St, Perth WA 6000, Australia"
   },
   {
     "date": "August 20",
@@ -53,7 +59,8 @@
     "title": "Fremantle Festival: 10 Nights in Port 2023",
     "tag": "ART & CULTURE",
     "href": "/events/fremantle-festival-10-nights-in-port-2023/",
-    "facilities": []
+    "facilities": [],
+    "address": "Fremantle, Western Australia, Australia"
   },
   {
     "date": "August 20",
@@ -61,15 +68,17 @@
     "title": "Celebrate National Science Week at Scitech",
     "tag": "FAMILY-FRIENDLY",
     "href": "/events/celebrate-national-science-week-at-scitech/",
-    "facilities": []
+    "facilities": [],
+    "address": "City West Centre, Sutherland St, West Perth WA 6005, Australia"
   },
   {
     "date": "August 20",
     "location": "PICA Perth",
-    "title": "Sancintya Mohini Simpson: \u0101m / amm\u0101 / m\u0101 maram",
+    "title": "Sancintya Mohini Simpson: ām / ammā / mā maram",
     "tag": "ART & CULTURE",
     "href": "/events/sancintya-mohini-simpson-am-amma-ma-maram/",
-    "facilities": []
+    "facilities": [],
+    "address": "Perth Cultural Centre, James St, Northbridge WA 6003, Australia"
   },
   {
     "date": "August 20",
@@ -77,15 +86,17 @@
     "title": "Solid State: A Revolution in Radios",
     "tag": "EXHIBITIONS",
     "href": "/events/solid-state-a-revolution-in-radios/",
-    "facilities": []
+    "facilities": [],
+    "address": "Alfred Rd, Ardross WA 6153, Australia"
   },
   {
     "date": "August 21",
     "location": "PICA Perth",
-    "title": "Sancintya Mohini Simpson: \u0101m / amm\u0101 / m\u0101 maram",
+    "title": "Sancintya Mohini Simpson: ām / ammā / mā maram",
     "tag": "ART & CULTURE",
     "href": "/events/sancintya-mohini-simpson-am-amma-ma-maram/",
-    "facilities": []
+    "facilities": [],
+    "address": "Perth Cultural Centre, James St, Northbridge WA 6003, Australia"
   },
   {
     "date": "August 21",
@@ -93,7 +104,8 @@
     "title": "Buy 1 Get 1 Free Dumplings at Lucy Luu",
     "tag": "EAT & DRINK",
     "href": "/events/buy-1-get-1-free-dumplings-at-lucy-luu/",
-    "facilities": []
+    "facilities": [],
+    "address": "376 Oxford St, Mt Hawthorn WA 6016, Australia"
   },
   {
     "date": "August 21",
@@ -101,15 +113,17 @@
     "title": "Mate Date at The Island Brew House",
     "tag": "EAT & DRINK",
     "href": "/events/mate-date-at-the-island-brew-house/",
-    "facilities": []
+    "facilities": [],
+    "address": "44-45 Rokeby Rd, Subiaco WA 6008, Australia"
   },
   {
     "date": "August 22",
     "location": "PICA Perth",
-    "title": "Sancintya Mohini Simpson: \u0101m / amm\u0101 / m\u0101 maram",
+    "title": "Sancintya Mohini Simpson: ām / ammā / mā maram",
     "tag": "ART & CULTURE",
     "href": "/events/sancintya-mohini-simpson-am-amma-ma-maram/",
-    "facilities": []
+    "facilities": [],
+    "address": "Perth Cultural Centre, James St, Northbridge WA 6003, Australia"
   },
   {
     "date": "August 22",
@@ -117,7 +131,8 @@
     "title": "Curry Night at Lucy Luu",
     "tag": "EAT & DRINK",
     "href": "/events/curry-night-at-lucy-luu/",
-    "facilities": []
+    "facilities": [],
+    "address": "376 Oxford St, Mt Hawthorn WA 6016, Australia"
   },
   {
     "date": "August 22",
@@ -125,15 +140,17 @@
     "title": "Mate Date at The Island Brew House",
     "tag": "EAT & DRINK",
     "href": "/events/mate-date-at-the-island-brew-house/",
-    "facilities": []
+    "facilities": [],
+    "address": "44-45 Rokeby Rd, Subiaco WA 6008, Australia"
   },
   {
     "date": "August 22",
     "location": "Milk Bar Inglewood",
-    "title": "Phil Hatton\u2019s Manhattons | The Jazz Club of WA",
+    "title": "Phil Hatton’s Manhattons | The Jazz Club of WA",
     "tag": "LIVE MUSIC",
     "href": "/events/phil-hattons-manhattons-the-jazz-club-of-wa-2/",
-    "facilities": []
+    "facilities": [],
+    "address": "882 Beaufort St, Inglewood WA 6052, Australia"
   },
   {
     "date": "August 23",
@@ -141,15 +158,17 @@
     "title": "Save The Children UWA Winter Book Sale",
     "tag": "FAMILY-FRIENDLY",
     "href": "/events/save-the-children-uwa-winter-book-sale/",
-    "facilities": []
+    "facilities": [],
+    "address": "35 Stirling Hwy, Crawley WA 6009, Australia"
   },
   {
     "date": "August 23",
     "location": "PICA Perth",
-    "title": "Sancintya Mohini Simpson: \u0101m / amm\u0101 / m\u0101 maram",
+    "title": "Sancintya Mohini Simpson: ām / ammā / mā maram",
     "tag": "ART & CULTURE",
     "href": "/events/sancintya-mohini-simpson-am-amma-ma-maram/",
-    "facilities": []
+    "facilities": [],
+    "address": "Perth Cultural Centre, James St, Northbridge WA 6003, Australia"
   },
   {
     "date": "August 23",
@@ -157,7 +176,8 @@
     "title": "Solid State: A Revolution in Radios",
     "tag": "EXHIBITIONS",
     "href": "/events/solid-state-a-revolution-in-radios/",
-    "facilities": []
+    "facilities": [],
+    "address": "Alfred Rd, Ardross WA 6153, Australia"
   },
   {
     "date": "August 23",
@@ -165,7 +185,8 @@
     "title": "Perth Ageing Information Expo",
     "tag": "EXHIBITIONS",
     "href": "/events/perth-ageing-information-expo/",
-    "facilities": []
+    "facilities": [],
+    "address": "Iluka Sports Complex, 89 Iluka Blvd, Iluka WA 6028, Australia"
   },
   {
     "date": "August 23",
@@ -173,15 +194,17 @@
     "title": "Mate Date at The Island Brew House",
     "tag": "EAT & DRINK",
     "href": "/events/mate-date-at-the-island-brew-house/",
-    "facilities": []
+    "facilities": [],
+    "address": "44-45 Rokeby Rd, Subiaco WA 6008, Australia"
   },
   {
     "date": "August 24",
     "location": "PICA Perth",
-    "title": "Sancintya Mohini Simpson: \u0101m / amm\u0101 / m\u0101 maram",
+    "title": "Sancintya Mohini Simpson: ām / ammā / mā maram",
     "tag": "ART & CULTURE",
     "href": "/events/sancintya-mohini-simpson-am-amma-ma-maram/",
-    "facilities": []
+    "facilities": [],
+    "address": "Perth Cultural Centre, James St, Northbridge WA 6003, Australia"
   },
   {
     "date": "August 24",
@@ -189,7 +212,8 @@
     "title": "Solid State: A Revolution in Radios",
     "tag": "EXHIBITIONS",
     "href": "/events/solid-state-a-revolution-in-radios/",
-    "facilities": []
+    "facilities": [],
+    "address": "Alfred Rd, Ardross WA 6153, Australia"
   },
   {
     "date": "August 24",
@@ -197,7 +221,8 @@
     "title": "Mate Date at The Island Brew House",
     "tag": "EAT & DRINK",
     "href": "/events/mate-date-at-the-island-brew-house/",
-    "facilities": []
+    "facilities": [],
+    "address": "44-45 Rokeby Rd, Subiaco WA 6008, Australia"
   },
   {
     "date": "August 24",
@@ -205,7 +230,8 @@
     "title": "Long Pour Cocktail Jugs at Spirit of Little Things",
     "tag": "EAT & DRINK",
     "href": "/events/long-pour-cocktail-jugs-at-spirit-of-little-things/",
-    "facilities": []
+    "facilities": [],
+    "address": "83 Rokeby Rd, Subiaco WA 6008, Australia"
   },
   {
     "date": "August 24",
@@ -213,15 +239,17 @@
     "title": "A Night in Mauritius",
     "tag": "EAT & DRINK",
     "href": "/events/a-night-in-mauritius/",
-    "facilities": []
+    "facilities": [],
+    "address": "198 William St, Northbridge WA 6003, Australia"
   },
   {
     "date": "August 25",
     "location": "PICA Perth",
-    "title": "Sancintya Mohini Simpson: \u0101m / amm\u0101 / m\u0101 maram",
+    "title": "Sancintya Mohini Simpson: ām / ammā / mā maram",
     "tag": "ART & CULTURE",
     "href": "/events/sancintya-mohini-simpson-am-amma-ma-maram/",
-    "facilities": []
+    "facilities": [],
+    "address": "Perth Cultural Centre, James St, Northbridge WA 6003, Australia"
   },
   {
     "date": "August 25",
@@ -229,7 +257,8 @@
     "title": "Solid State: A Revolution in Radios",
     "tag": "EXHIBITIONS",
     "href": "/events/solid-state-a-revolution-in-radios/",
-    "facilities": []
+    "facilities": [],
+    "address": "Alfred Rd, Ardross WA 6153, Australia"
   },
   {
     "date": "August 25",
@@ -237,7 +266,8 @@
     "title": "Perth Disability Connection Expo",
     "tag": "EXHIBITIONS",
     "href": "/events/perth-disability-connection-expo/",
-    "facilities": []
+    "facilities": [],
+    "address": "21 Mounts Bay Rd, Perth WA 6000, Australia"
   },
   {
     "date": "August 25",
@@ -245,7 +275,8 @@
     "title": "Mate Date at The Island Brew House",
     "tag": "EAT & DRINK",
     "href": "/events/mate-date-at-the-island-brew-house/",
-    "facilities": []
+    "facilities": [],
+    "address": "44-45 Rokeby Rd, Subiaco WA 6008, Australia"
   },
   {
     "date": "August 26",
@@ -253,23 +284,26 @@
     "title": "Learn How to Design Tissue Transfers for Clay Workshop",
     "tag": "WORKSHOPS",
     "href": "/events/learn-how-to-design-tissue-transfers-for-clay-workshop/",
-    "facilities": []
+    "facilities": [],
+    "address": "126 Banksia Tce, Kensington WA 6151, Australia"
   },
   {
     "date": "August 26",
     "location": "Scitech West Perth",
-    "title": "Born in \u201988? Visit Scitech for Free!",
+    "title": "Born in ’88? Visit Scitech for Free!",
     "tag": "FAMILY-FRIENDLY",
     "href": "/events/born-in-88-visit-scitech-for-free/",
-    "facilities": []
+    "facilities": [],
+    "address": "City West Centre, Sutherland St, West Perth WA 6005, Australia"
   },
   {
     "date": "August 26",
     "location": "PICA Perth",
-    "title": "Sancintya Mohini Simpson: \u0101m / amm\u0101 / m\u0101 maram",
+    "title": "Sancintya Mohini Simpson: ām / ammā / mā maram",
     "tag": "ART & CULTURE",
     "href": "/events/sancintya-mohini-simpson-am-amma-ma-maram/",
-    "facilities": []
+    "facilities": [],
+    "address": "Perth Cultural Centre, James St, Northbridge WA 6003, Australia"
   },
   {
     "date": "August 26",
@@ -277,7 +311,8 @@
     "title": "Solid State: A Revolution in Radios",
     "tag": "EXHIBITIONS",
     "href": "/events/solid-state-a-revolution-in-radios/",
-    "facilities": []
+    "facilities": [],
+    "address": "Alfred Rd, Ardross WA 6153, Australia"
   },
   {
     "date": "August 26",
@@ -285,23 +320,26 @@
     "title": "Perth Disability Connection Expo",
     "tag": "EXHIBITIONS",
     "href": "/events/perth-disability-connection-expo/",
-    "facilities": []
+    "facilities": [],
+    "address": "21 Mounts Bay Rd, Perth WA 6000, Australia"
   },
   {
     "date": "August 27",
     "location": "Scitech West Perth",
-    "title": "Born in \u201988? Visit Scitech for Free!",
+    "title": "Born in ’88? Visit Scitech for Free!",
     "tag": "FAMILY-FRIENDLY",
     "href": "/events/born-in-88-visit-scitech-for-free/",
-    "facilities": []
+    "facilities": [],
+    "address": "City West Centre, Sutherland St, West Perth WA 6005, Australia"
   },
   {
     "date": "August 27",
     "location": "PICA Perth",
-    "title": "Sancintya Mohini Simpson: \u0101m / amm\u0101 / m\u0101 maram",
+    "title": "Sancintya Mohini Simpson: ām / ammā / mā maram",
     "tag": "ART & CULTURE",
     "href": "/events/sancintya-mohini-simpson-am-amma-ma-maram/",
-    "facilities": []
+    "facilities": [],
+    "address": "Perth Cultural Centre, James St, Northbridge WA 6003, Australia"
   },
   {
     "date": "August 27",
@@ -309,7 +347,8 @@
     "title": "Solid State: A Revolution in Radios",
     "tag": "EXHIBITIONS",
     "href": "/events/solid-state-a-revolution-in-radios/",
-    "facilities": []
+    "facilities": [],
+    "address": "Alfred Rd, Ardross WA 6153, Australia"
   },
   {
     "date": "August 27",
@@ -317,6 +356,7 @@
     "title": "Taste of Chittering",
     "tag": "EAT & DRINK",
     "href": "/events/taste-of-chittering-2/",
-    "facilities": []
+    "facilities": [],
+    "address": "Chittering, Western Australia, Australia"
   }
 ]

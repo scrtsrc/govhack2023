@@ -1,18 +1,19 @@
 import eventData from "../data/events.json";
 import facilities from "../data/facilities.json";
-import { useRouter } from "next/router";
-import styles from "../styles/common.module.css";
+import { useRouter } from "next/router";0
+import styles from "../styles/events.module.css";
 import Footer from "./footer";
 import Header from "./header";
 import { library } from "@fortawesome/fontawesome-svg-core";
 import { fas } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import GoogleMap from "./map"
+import GoogleMap from "./map";
+
 export default function Events() {
-  const mapCenter = {
-    lat: -31.950527, // Example latitude
-    lng: 115.860457, // Example longitude
-  };
+  // const mapCenter = {
+  //   lat: -31.950527, // Example latitude
+  //   lng: 115.860457, // Example longitude
+  // };
   // Add all the solid style icons to the library
   library.add(fas);
   const router = useRouter();
@@ -29,13 +30,12 @@ export default function Events() {
       />
     ));
   }
-
   return (
     <div className={styles.container}>
       <Header pageTitle={selectedTag} />
       <main className={styles.main}>
-      <GoogleMap lat={mapCenter.lat} lng={mapCenter.lng} />
-        <div className={styles.grid}>
+      <GoogleMap events={relevantEvents} />
+        <div className={styles.objectList}>
           {relevantEvents.map((e, index) => (
             <a
               key={index}
@@ -64,6 +64,7 @@ export default function Events() {
           ))}
         </div>
       </main>
+
       <Footer />
       <style jsx global>{`
         html,

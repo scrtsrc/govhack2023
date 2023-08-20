@@ -1,0 +1,87 @@
+.main {
+    width: 100%;
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 400px;
+  }
+  .objectList {
+    width: 30%;
+    padding: 1%;
+    float: right;
+    height: 400px;
+    overflow-y: auto; /* Add scrollbar if content overflows */
+  }
+
+  .objectList::-webkit-scrollbar {
+    width: 10px; /* Width of the scrollbar */
+  }
+  
+  .objectList::-webkit-scrollbar-thumb {
+    background-color: #01f9c6; /* Color of the scrollbar thumb */
+    border-radius: 5px; /* Rounded corners for the thumb */
+  }
+  
+  .objectList::-webkit-scrollbar-track {
+    background-color: #f1f1f1; /* Color of the scrollbar track */
+    border-radius: 5px; /* Rounded corners for the track */
+  }
+  
+  /* Clear floating elements */
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .icon{
+    color:white;
+    margin: 1%;
+  }
+  .card {
+    margin: 1rem;
+    flex-basis: 45%;
+    padding: 1.5rem;
+    text-align: left; 
+    
+    color: #01f9c6;
+    border-color: #01f9c6;
+    text-decoration: none;
+    border-radius: 10px;
+    transition: color 0.15s ease, border-color 0.15s ease;
+  }
+  
+  .card:hover,
+  .card:focus,
+  .card:active {
+    /* color: #01F9C6;
+    border-color: #01F9C6; */
+    color: #494f55;
+    border-color: #494f55;
+  }
+  
+  .card h3 {
+    margin: 0 0 1rem 0;
+    font-size: 1.5rem;
+    color: white;
+  }
+  
+  .card p {
+    margin: 0;
+    font-size: 1.25rem;
+    line-height: 1.5;
+  }
+  
+  .container {
+    min-height: 100vh;
+    padding: 0 0.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #000000;
+  }
+  
+
+  
