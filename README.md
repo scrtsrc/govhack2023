@@ -4,6 +4,7 @@ Data collected from Perth is OK - used a scraper and their ROBOT.TXT file seems 
 Tried to collect data from https://visitperth.com/getting-around/accessibility (not very succesfully)
 
 NOTE: For the deployed app, I've not supplied an Google Maps API key just incase it gets spammed
+Live demo can be found here: https://youtu.be/xg2lL5ivXGg
 
 Next steps
 - Want people to be able to add their own markers and say whether a place has accessiblity facilities(and the quality) because data appears to be lacking
