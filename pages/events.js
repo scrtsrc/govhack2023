@@ -76,7 +76,6 @@ export default function Events() {
         }
         * {
           box-sizing: border-box;
-          background-color: #000000;
         }
       `}</style>
     </div>
